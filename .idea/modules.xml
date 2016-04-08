@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeiXinProcess/WeiXinProcess.iml" filepath="$PROJECT_DIR$/WeiXinProcess/WeiXinProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/green-project.iml" filepath="$PROJECT_DIR$/green-project.iml" />
+    </modules>
+  </component>
+</project>
